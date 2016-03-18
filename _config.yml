@@ -1,0 +1,14 @@
+layout_spectrum: 0.2801673
+typography_spectrum: 1
+color:
+  saturation: 0.2037037
+  lightness: 0.4605734
+  brandStrength: 0.4725209
+  rhythmicContrast: 0.5908005
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Lucasdeli
