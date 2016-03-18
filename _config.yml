@@ -1,14 +1,26 @@
-layout_spectrum: 0.2801673
-typography_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.2037037
-  lightness: 0.4605734
+  saturation: 0.2144564
   brandStrength: 0.4725209
-  rhythmicContrast: 0.5908005
+  lightness: 0.3076464
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  rhythmicContrast: 0.3016726
+typography_spectrum: 1
+layout_spectrum: 0.2801673
 name: Lucasdeli
